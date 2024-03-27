@@ -1,5 +1,5 @@
 [package]
-name = "owlwise_trader"
+name = "owlwisetrader_strategy"
 version = "0.1.0"
 edition = "2021"
 

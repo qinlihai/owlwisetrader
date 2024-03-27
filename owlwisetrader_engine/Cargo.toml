@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "strategy",
+    "barter-data-rs",
+    "barter-execution-rs",
+    "barter-integration-rs",
+    "barter-rs",
+    "barter-macro-rs"
+]

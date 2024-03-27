@@ -1,0 +1,50 @@
+[package]
+name = "barter-integration"
+version = "0.6.2"
+authors = ["JustAStream"]
+edition = "2021"
+license = "MIT"
+documentation = "https://docs.rs/barter-integration/"
+repository = "https://github.com/barter-rs/barter-integration-rs"
+readme = "README.md"
+description = "Low-level framework for composing flexible web integrations, especially with financial exchanges"
+keywords = ["trading", "backtesting", "crypto", "stocks", "investment"]
+categories = ["accessibility", "simulation"]
+
+[dev-dependencies]
+rust_decimal_macros = "1.34.2"
+
+[dependencies]
+# Logging
+tracing = "0.1.40"
+
+# SerDe
+serde = { version = "1.0.197", features = ["derive"] }
+serde_json = "1.0.114"
+serde_qs = "0.12.0"
+serde_urlencoded = "0.7.1"
+
+# Error
+thiserror = "1.0.58"
+
+# Async
+tokio = { version = "1.36.0", features = ["net", "sync", "macros", "rt-multi-thread"] }
+futures = "0.3.3"
+async-trait = "0.1.78"
+pin-project = "1.1.5"
+
+# Protocol
+tokio-tungstenite = { version = "0.21.0", features = ["rustls-tls-webpki-roots"] }
+reqwest = { version = "0.11.27", features = ["json"] }
+url = "2.5.0"
+
+# Cryptographic Signatures
+hmac = "0.12.1"
+sha2 = "0.10.6"
+hex = "0.4.3"
+base64 = "0.22.0"
+
+# Misc
+chrono = { version = "0.4.35", features = ["serde"] }
+bytes = "1.5.0"
+rust_decimal = "1.34.3"

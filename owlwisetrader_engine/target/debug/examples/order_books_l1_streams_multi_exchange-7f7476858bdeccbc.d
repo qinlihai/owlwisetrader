@@ -1,5 +1,0 @@
-/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/examples/liborder_books_l1_streams_multi_exchange-7f7476858bdeccbc.rmeta: barter-data-rs/examples/order_books_l1_streams_multi_exchange.rs
-
-/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/examples/order_books_l1_streams_multi_exchange-7f7476858bdeccbc.d: barter-data-rs/examples/order_books_l1_streams_multi_exchange.rs
-
-barter-data-rs/examples/order_books_l1_streams_multi_exchange.rs:

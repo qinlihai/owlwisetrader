@@ -1,5 +1,0 @@
-/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/examples/libpublic_trades_streams_multi_exchange-1d0286f37d4cc9f6.rmeta: barter-data-rs/examples/public_trades_streams_multi_exchange.rs
-
-/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/examples/public_trades_streams_multi_exchange-1d0286f37d4cc9f6.d: barter-data-rs/examples/public_trades_streams_multi_exchange.rs
-
-barter-data-rs/examples/public_trades_streams_multi_exchange.rs:

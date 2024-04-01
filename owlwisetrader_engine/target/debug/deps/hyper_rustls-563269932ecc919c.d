@@ -1,0 +1,9 @@
+/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/deps/libhyper_rustls-563269932ecc919c.rmeta: /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/deps/hyper_rustls-563269932ecc919c.d: /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs:

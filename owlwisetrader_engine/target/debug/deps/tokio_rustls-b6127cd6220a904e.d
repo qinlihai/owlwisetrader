@@ -1,0 +1,9 @@
+/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/deps/libtokio_rustls-b6127cd6220a904e.rmeta: /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs
+
+/Users/qinlihai/ebirdmedia/ATSR/owlwisetrader/owlwisetrader_engine/target/debug/deps/tokio_rustls-b6127cd6220a904e.d: /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs /Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs
+
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/lib.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/client.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/mod.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/common/handshake.rs:
+/Users/qinlihai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tokio-rustls-0.25.0/src/server.rs:
